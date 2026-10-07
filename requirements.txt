@@ -1,0 +1,7 @@
+﻿aiohttp
+pandas
+numpy
+ta
+websockets
+python-dotenv
+requests
